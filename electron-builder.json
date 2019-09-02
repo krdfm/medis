@@ -1,0 +1,17 @@
+{
+  "productName": "Medis",
+  "directories": {
+    "output": "release/"
+  },    
+  "win": {
+    "icon": "resources/icns/Icon1024.ico",
+    "target": [
+      {
+        "target": "portable",
+        "arch": [
+          "x64"
+        ]
+      }
+    ]
+  }
+}
